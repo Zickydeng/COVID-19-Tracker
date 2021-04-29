@@ -2,8 +2,8 @@
 
 ### [Live Demo](https://covid-19-tracker-125cb.web.app/)
 
-This single page web-app was build using ReactHooks and Material UI. It fetches data from Healthservice.api and provides live updates of Covid-19 cases.
-It's both interactive and responsive and it can also show cases per Country. One can zoom in and click on the Country's circle for elaborate details.
+This is a 'single page' web-app that was build using ReactHooks and Material UI. It fetches data from Healthservice api and provides live updates of Covid-19 cases.
+It's both interactive and responsive and it can also show cases per Country. You can zoom in and click on the Country's circle for elaborate details.
 
 ![Covid-19 Tracker](covid-tracker.png?raw=true "Covid-19 Tracker")
 
