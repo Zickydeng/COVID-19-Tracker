@@ -7,7 +7,6 @@ It's both interactive and responsive and it can also show cases per Country. You
 
 ![Covid-19 Tracker](covid-tracker.png?raw=true "Covid-19 Tracker")
 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
